@@ -1,5 +1,5 @@
 <!--Header-->
-<h1> Welcome <img src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564" width="25px" height="25px" > !!
+<h1> Welcome <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !!
 <a href="#">
   <img alt="Keyur's Profile Views" src="https://komarev.com/ghpvc/?username=keyurbhogayata&color=blue" />
 </a>
@@ -11,9 +11,9 @@
 <!--Mid GIF-->
 </hr>
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%" height="400px"/>
+<img align="center" src="https://imgur.com/ZiUNviP" width="100%" height="400px"/>
 </p>
-<p align="center"><i><b>When I see a bug in my code 天照 </b></i></p>
+<p align="center"><i><b>Well after 100th google search !!😂</b></i></p>
 </hr>
 </br>
 
