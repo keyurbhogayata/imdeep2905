@@ -11,7 +11,9 @@
 <!--Mid GIF-->
 </hr>
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="100%" height="400px"/>
+<img align="center" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized.gif" width="100%" height="400px"/>  
+</p>
+
 </p>
 <p align="center"><i><b>Well after 100th google search !!😂</b></i></p>
 </hr>
@@ -21,10 +23,10 @@
 
 <p align="left">
 <a href="https://github.com/keyurbhogayata">
-  <img align="center" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+  <img align="center" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=keyurbhogayata&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
 <a href="https://github.com/keyurbhogayata">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdeep2905&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurbhogayata&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
 </p>
 
